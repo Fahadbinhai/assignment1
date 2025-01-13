@@ -1,0 +1,253 @@
+/* font style */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    font-family: "Fira Sans", serif;
+}
+
+/* header section styles */
+.banglasesh-styles {
+    color: rgb(14, 14, 14);
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.white-button-style {
+    color: rgb(0, 106, 80);
+    font-size: 18px;
+    font-weight: 600;
+    box-sizing: border-box;
+    border: 1px solid rgb(0, 106, 80);
+    border-radius: 8px;
+    width: 116px;
+    height: 52px;
+
+}
+
+.nav-style {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 180px;
+}
+
+/* banner section style */
+
+.banner-style {
+    display: flex;
+    align-items: center;
+    margin: 20px 160px 0px 160px;
+    padding: 80px 100px;
+    background-color: rgb(198, 228, 214);
+    width: 1365px;
+    height: 560px;
+    gap: 240px;
+    border-radius: 24px;
+
+}
+
+.banner-title-style {
+    color: rgba(14, 14, 14, 0.5);
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0px;
+    padding-bottom: 16px;
+}
+
+.banner-description-style {
+    color: rgb(14, 14, 14);
+    font-size: 56px;
+    font-weight: 700;
+    margin: 0px;
+    padding-bottom: 24px;
+    width: 622px;
+    height: 201px;
+}
+
+.green-button-style {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 600;
+    width: 270px;
+    height: 56px;
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    border: none;
+}
+
+/* main section style */
+
+/* section 1 style */
+.section1-style {
+    margin: 80px 160px;
+}
+
+.dady-div-style {
+    display: flex;
+    /* justify-content: space-around; */
+    gap: 50px;
+}
+
+.pillars-heading {
+    color: rgb(14, 14, 14);
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0px;
+    margin-bottom: 32px;
+}
+
+.all-div-style {
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    width: 350px;
+    height: 254px;
+    padding: 24px;
+}
+
+.box-title-style {
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0px;
+    margin-top: 30px;
+    margin-bottom: 12px;
+}
+
+.box-para-style {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* section 2 style */
+
+.dady-div-style2 {
+    display: flex;
+    gap: 50px;
+}
+
+.vision-heading2 {
+    color: rgb(14, 14, 14);
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0px;
+    margin-bottom: 24px;
+}
+
+.bangladesh-2-style {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 32px;
+}
+
+.vision-para-style {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.section2-div1 {
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: rgba(84, 144, 245, 0.2);
+    padding: 45px;
+}
+
+.section2-div2 {
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: rgb(198, 228, 214);
+    padding: 45px;
+}
+
+.section2-div3 {
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: rgb(247, 235, 207);
+    padding: 45px;
+}
+
+.vision-title {
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0px;
+    margin-top: 25px;
+}
+
+.vision-para-style {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.three-btn-style2 {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    background: rgb(9, 161, 92);
+    width: 122px;
+    height: 41px;
+    border: none;
+    margin-top: 48px;
+}
+
+.three-btn-style1 {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    background: rgb(84, 144, 245);
+    width: 122px;
+    height: 41px;
+    border: none;
+    margin-top: 48px;
+}
+
+.three-btn-style3 {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    background: rgb(255, 194, 57);
+    width: 122px;
+    height: 41px;
+    border: none;
+    margin-top: 48px;
+}
+
+/* section 3 style */
+.advisor-div {
+    margin: 16px 160px 80px 160px;
+    padding: 20px 24px;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+}
+
+.about-advisor {
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.advisor-name {
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0px;
+}
+
+.designation {
+    color: rgba(14, 14, 14, 0.6);
+    font-size: 16px;
+    font-weight: 400;
+}
+
