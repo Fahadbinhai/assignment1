@@ -251,3 +251,78 @@
     font-weight: 400;
 }
 
+/* recent news section */
+
+.section3 {
+    margin: 0px 160px 80px 160px;
+}
+
+.recent-news-style {
+    color: rgb(14, 14, 14);
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0px;
+    margin-bottom: 24px;
+}
+
+.recent-bangladesh {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0px;
+    margin-bottom: 32px;
+}
+
+.satelite-div1 {
+    display: flex;
+    /* align-items: center; */
+    gap: 32px;
+    border-radius: 24px;
+    background: rgb(255, 253, 208);
+    padding: 48px;
+    margin-bottom: 24px;
+
+}
+
+.satelite-image {
+    width: 408px;
+    height: 306px;
+    border-radius: 24px;
+}
+
+.launches-satelite {
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0px;
+    margin-bottom: 12px;
+}
+
+.jazeera-pic {
+    width: 134px;
+    height: 40px;
+}
+
+.date-time {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 12px;
+}
+
+.satelite-paragraph {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.readmore-btn {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 600;
+    padding: 13px 26px ;
+    border: none;
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    margin-top: 48px;
+}
