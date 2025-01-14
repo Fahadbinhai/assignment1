@@ -484,3 +484,38 @@ input ::placeholder {
     font-size: 16px;
     font-weight: 400;
 }
+
+/* footer style section */
+.footer-style {
+    margin: 0px 160px;
+    background: #F1F1F3;
+    padding: 70px 80px;
+    border-radius: 15px;
+    
+}
+
+.footer-bangladesh {
+    color: rgb(14, 14, 14);
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.line {
+    border: 1px solid rgba(14, 14, 14, 0.1);
+    width: 1122px;
+}
+
+.footer-img {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 30px;
+}
+
+.green-button-style:hover, .white-button-style:hover, .subscribe-btn:hover, 
+.readmore-btn:hover , .readmore-btn2:hover , .three-btn-style1:hover , .three-btn-style2:hover,
+.three-btn-style3:hover{
+    background-color: crimson;
+    
+}
