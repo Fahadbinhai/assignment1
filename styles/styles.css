@@ -320,9 +320,95 @@
     color: rgb(255, 255, 255);
     font-size: 18px;
     font-weight: 600;
-    padding: 13px 26px ;
+    padding: 13px 26px;
     border: none;
     border-radius: 8px;
     background: rgb(0, 106, 80);
     margin-top: 48px;
 }
+
+/* Donate section style */
+.donate-section {
+    margin: 0px 160px 80px 160px;
+    background: #F1F1F3;
+}
+
+.donate-style {
+    text-align: center;
+    color: rgb(14, 14, 14);
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0px;
+    margin-bottom: 24px;
+}
+
+.donate-paragraph {
+    text-align: center;
+    padding: 0px 90px;
+}
+
+.main-taka-div {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+    margin-bottom: 32px;
+}
+
+.takar-div {
+    padding: 40px;
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 40px;
+    font-weight: 700;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+
+}
+
+.takar-div2 {
+    padding: 40px;
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 40px;
+    font-weight: 700;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(198, 228, 214);
+}
+
+.area-style {
+    text-align: center;
+    width: 100%;
+    height: 64px;
+    color: rgba(14, 14, 14, 0.3);
+    font-size: 20px;
+    font-weight: 400;
+    padding: 20px 40px;
+    box-sizing: border-box;
+    border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgb(255, 255, 255);
+    border: none;
+}
+
+.input-area-style {
+    margin: 32px 230px;
+    
+}
+
+textarea ::placeholder {
+    text-align: center;
+}
+
+.readmore-btn2 {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 600;
+    padding: 13px 26px;
+    border: none;
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    margin-top: 48px;
+    margin: 32px 485px 0px 485px;
+}
+
