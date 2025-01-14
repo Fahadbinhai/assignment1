@@ -393,7 +393,7 @@
 
 .input-area-style {
     margin: 32px 230px;
-    
+
 }
 
 textarea ::placeholder {
@@ -412,3 +412,75 @@ textarea ::placeholder {
     margin: 32px 485px 0px 485px;
 }
 
+/* news latter section */
+
+.main-div {
+    padding: 80px 265px;
+}
+
+.news-letter-section {
+    margin: 80px 160px;
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
+}
+
+.news-letter {
+    color: rgb(14, 14, 14);
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0px;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.news-letter-paragraph {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    /* width: 500px;
+    height: 48px; */
+    text-align: center;
+    padding: 0px 64px;
+    margin: 0px;
+    margin-bottom: 24px;
+}
+
+.email-part {
+    display: flex;
+}
+
+.email {
+    width: 71%;
+    height: 55px;
+    border: none;
+    border-radius: 8px 0px 0px 8px;
+    background: rgb(255, 255, 255);
+}
+
+.subscribe-btn {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 600;
+    width: 150px;
+    height: 56px;
+    padding: 16px 34px;
+    border-radius: 0px 8px 8px 0px;
+    background: rgb(0, 106, 80);
+    border: none;
+    margin-left: 0px;
+}
+
+.promise {
+    text-align: center;
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0px;
+    margin-top: 25px;
+}
+
+input ::placeholder {
+    color: rgba(14, 14, 14, 0.3);
+    font-size: 16px;
+    font-weight: 400;
+}
